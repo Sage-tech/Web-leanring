@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/Flower.jpg') no-repeat top center ;
+  background: url('images/Flower.jpg') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -136,7 +136,6 @@ ul.list-item {
   width: 400px;
   height: 300px;
 }
-
 footer {
   width: 100%;
   min-height: 30px;
