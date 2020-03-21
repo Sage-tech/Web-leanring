@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Web-leanring",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio_update_v1-3",
+		"liveServer.settings.port": 5501
+	}
+}
