@@ -58,6 +58,7 @@ a:hover {
 header {
   text-align: center;
   background: url('images/Flower.jpg') no-repeat top center;
+  height:645px;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
